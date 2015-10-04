@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            小记
+tagline:          notbook
+description:      "编程，安全，生活"
+url:              https://github.com/linpengstc
+baseurl:          /
+
+author:
+  name:           'winnerX'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/linpengstc
